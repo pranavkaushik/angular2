@@ -7,6 +7,6 @@ import{ UserComponent } from './user.component'
  
 })
 export class UserdetailsComponent  {
-@Input() parentOut;
+@Input() getUser;
 
 }
